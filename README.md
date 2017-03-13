@@ -8,3 +8,7 @@ https://jsbin.com/zayaro/31/edit?html,js,output
 - elements are insterted with a pus and removed with a pop
 - the peek operation shows the last element of the stack without removing it
 https://jsbin.com/gevegom/48/edit?html,js,output
+
+## Algorithms
+### Buble sort
+- https://jsbin.com/cijunib/edit?html,js,console,output
