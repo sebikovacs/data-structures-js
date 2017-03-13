@@ -12,3 +12,6 @@ https://jsbin.com/gevegom/48/edit?html,js,output
 ## Algorithms
 ### Buble sort
 - https://jsbin.com/cijunib/edit?html,js,console,output
+
+### Selection sort
+- https://jsbin.com/xuqaram/2/edit?html,js,console,output
