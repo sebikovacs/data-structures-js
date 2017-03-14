@@ -27,5 +27,20 @@ https://jsbin.com/gevegom/48/edit?html,js,output
 #### Selection sort
 - https://jsbin.com/xuqaram/2/edit?html,js,console,output
 
+#### Insertion Sort
+
+#### Shellsort
+#### Mergesort
+#### Quicksort
+
+
 # Searching Algorithms
+#### Sequential sort
+#### Minimum and maximum
+#### Self-organizing data
+#### Binary search
+#### Counting Occurences
+#### Searching Textual Data
+
+
 # Advanced Algorithms
