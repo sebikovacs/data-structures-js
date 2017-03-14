@@ -9,6 +9,8 @@
 https://jsbin.com/gevegom/48/edit?html,js,output
 
 #### Ques
+- https://jsbin.com/yajoder/4/edit?html,css,js,console
+
 #### Linked lists
 #### Dictionaries
 #### Linked lists
